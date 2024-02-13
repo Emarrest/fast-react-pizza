@@ -2,19 +2,20 @@
 (Test) Reactive interface which implements a menu to order pizza and the full process of calculating the price, quantity and getting the position of the user for the shipment.
 
 First entry menu.
-![Screenshot 2024-01-18 084808](https://github.com/Emarrest/fast-react-pizza/assets/112563604/bd18298c-4581-4575-81ba-8ad26e7e3506)
+![Screenshot 2024-02-13 091309](https://github.com/Emarrest/fast-react-pizza/assets/112563604/8e9e6071-ffa5-4a1d-91b1-a2cd1648dde4)
+
 
 Full menu.
-![Screenshot 2024-01-18 084858](https://github.com/Emarrest/fast-react-pizza/assets/112563604/cb0fe7cd-c608-489c-a158-203a9c80d23e)
+![Screenshot 2024-02-13 091356](https://github.com/Emarrest/fast-react-pizza/assets/112563604/42f5c12f-ec57-46e3-b249-3114ec8b2802)
 
--
-![Screenshot 2024-01-18 090340](https://github.com/Emarrest/fast-react-pizza/assets/112563604/539cd4a0-b3ad-4d64-aca0-06aaa625a30e)
+Cart preview.
+![Screenshot 2024-02-13 091413](https://github.com/Emarrest/fast-react-pizza/assets/112563604/910bb720-1de6-4b6a-8b88-75d091f8b298)
 
-Delivery configuration.
-![Screenshot 2024-01-18 090409](https://github.com/Emarrest/fast-react-pizza/assets/112563604/4eadc40b-9655-4789-b659-acec746c68e8)
 
 Cart with the possibility to get a priority on the order shipment.
-![Screenshot 2024-01-18 084945](https://github.com/Emarrest/fast-react-pizza/assets/112563604/d1fa7d2a-deb1-4286-a6b6-6666a5e6bcfa)
+![Screenshot 2024-02-13 091455](https://github.com/Emarrest/fast-react-pizza/assets/112563604/c62f97c4-f2d2-4363-9801-cca8b554584a)
+
 
 Final menu before shipment.
-![Screenshot 2024-01-18 085027](https://github.com/Emarrest/fast-react-pizza/assets/112563604/4eb6cce4-7741-481f-978a-03abd886b058)
+![Screenshot 2024-02-13 091537](https://github.com/Emarrest/fast-react-pizza/assets/112563604/eec28ef5-b6e1-4f59-a99a-23ee840fc8ce)
+
